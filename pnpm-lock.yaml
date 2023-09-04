@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@astrojs/cloudflare':
-    specifier: ^6.8.0
-    version: 6.8.0(astro@2.10.14)
+    specifier: ^6.8.1
+    version: 6.8.1(astro@2.10.14)
   '@astrojs/mdx':
     specifier: ^0.19.7
     version: 0.19.7(astro@2.10.14)
@@ -36,10 +36,10 @@ packages:
       '@jridgewell/trace-mapping': 0.3.19
     dev: false
 
-  /@astrojs/cloudflare@6.8.0(astro@2.10.14):
-    resolution: {integrity: sha512-muYZihP0cDFMVNw2vuRU2WCAr6DUOdmP43hcrmXN3TbL7Y7R9fRBrBTIPo+r0TGbHVU8Yi0CXSZ+SvpUAzLa+A==}
+  /@astrojs/cloudflare@6.8.1(astro@2.10.14):
+    resolution: {integrity: sha512-P0QN3wZ89rZoTpT+f99RSe7ecF+p3seOMejbVvsR/j8F8WQkvdxXTf35Lq+KWWzIDjbQfmhAxMg33tihSVWUdQ==}
     peerDependencies:
-      astro: ^2.10.6
+      astro: ^2.10.14
     dependencies:
       '@astrojs/underscore-redirects': 0.2.0
       '@cloudflare/workers-types': 4.20230821.0
